@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 tags: [""]
 categories: [""]
-author: "Pinple"
+author: "pinple"
 contentCopyright: "禁止转载"
 ---
 
